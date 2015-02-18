@@ -1,1 +1,1 @@
-# hashtags should never have a dash!!!
+# hashtags should sometimes have a dash!!!
