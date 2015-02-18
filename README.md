@@ -1,1 +1,1 @@
-# hashtags
+# hashtags should contain dashes!
